@@ -2,4 +2,4 @@
 
 let myVar = "Javascript is amazing";
 
-console.log(myVar0);
+console.log(myVar);
