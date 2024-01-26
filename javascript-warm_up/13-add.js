@@ -1,8 +1,8 @@
 // script that creates a function that adds two integers
 
-function myFun(a,b){
+function add(a,b){
     return a+b;
 }
 
-let x = myFun();
+let x = add();
 console.log(x);
