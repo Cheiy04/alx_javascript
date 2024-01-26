@@ -3,3 +3,6 @@
 function myFun(a,b){
     return a+b;
 }
+
+let x = myFun();
+console.log(x);
