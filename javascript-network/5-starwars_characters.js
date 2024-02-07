@@ -1,7 +1,8 @@
 //  script that prints all characters of a Star Wars movie:
 
-// const request = require('request')
-// const process = require('process')
+const request = require('request')
+const process = require('process')
+const fetch = require('node-fetch');
 // const endpoint = 'https://swapi-api.alx-tools.com/api/films'
 // const movieID = process.argv[2]
 
