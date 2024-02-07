@@ -2,7 +2,7 @@
 
 const request = require('request')
 const process = require('process')
-const fetch = require('node-fetch');
+// const fetch = require('node-fetch');
 // const endpoint = 'https://swapi-api.alx-tools.com/api/films'
 // const movieID = process.argv[2]
 
