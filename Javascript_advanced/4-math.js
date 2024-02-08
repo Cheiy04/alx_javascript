@@ -2,7 +2,7 @@
 
 function divideBy(firstNumber){
     return (secondNumber)=>{
-        const dividedNum = firstNumber/secondNumber;
+        const dividedNum = secondNumber/firstNumber;
         return dividedNum;
     };
 
